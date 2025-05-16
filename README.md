@@ -50,3 +50,29 @@ Here’s what your interactive bundle of joy should include:
 Remember – this isn't just code. It's your **first step toward creating magical user experiences**. So play around, break stuff (then fix it), and most of all, have FUN! 😄
 
 Happy Coding! 💻✨  
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Playground</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to the Ultimate JavaScript Playground! 🎉</h1>
+    </header>
+
+    <main>
+        <section id="event-section">
+            <button id="changeTextButton">Click me to change text!</button>
+            <p id="hoverText">Hover over me to change color!</p>
+            <input type="text" id="keyPressInput" placeholder="Type something...">
+            <p id="keyPressOutput">Keypress detection active!</p>
+        </section>
+
+        <section id="interactive-section">
+            <button id="changeColorButton">Change My Color</button
+
